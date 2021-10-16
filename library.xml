@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library>
+	<catalogue category="technical">
+		<book>
+			<isbn>12345</isbn>
+			<title>Python for Data Analytics</title>
+			<author>John Doe</author>
+		</book>
+		
+		<book>
+			<isbn>56789</isbn>
+			<title>Data Analytics for Python</title>
+			<author>Jane Doe</author>
+		</book>
+		
+	</catalogue>
+	
+	<catalogue category="cookery">
+		<book>
+			<isbn>24680</isbn>
+			<title>Baking Cakes for Dummies</title>
+			<author>Adam Smith</author>
+		</book>
+		
+		<book>
+			<isbn>13579</isbn>
+			<title>Spice Bags and the Single Man</title>
+			<author>Anonymous</author>
+		</book>
+		
+	</catalogue>
+	
+</library>
